@@ -1,0 +1,6 @@
+*.pyc
+*.bin
+*.ipynb
+*.csv
+*.pkl
+*.DS_Store
